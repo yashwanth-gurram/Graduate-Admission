@@ -1,1 +1,1 @@
-# Graduate-Admission
+# College Admission Predictor
